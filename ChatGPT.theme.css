@@ -1,0 +1,57 @@
+/**
+ * @name ChatGPT Theme
+ * @author Kira 290X
+ * @version 1.0
+ * @source:
+ */
+ :root {
+    --primary-530: rgb(40,40,40);
+    --primary-700: rgb(40,40,40);
+    --primary-600: rgb(40,40,40);
+    --background-accent: color-mix(in oklab, var(--primary-530) 100%);
+    --guild-notifications-bottom-sheet-pill-background: color-mix(in oklab, var(--primary-700) 100%);
+    --background-primary: color-mix(in oklab, var(--primary-600) 100%);
+    --background-secondary: color-mix(in oklab, var(--primary-600) 100%);
+    --channeltextarea-background:rgb(10, 10, 10);
+    .container_b2ca13 {
+        background-color: rgb(10, 10, 10);
+    }
+    .scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 {
+        background-color: rgb(10, 10, 10);
+    }
+    .scroller_c43953.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8.customTheme_eed6a8 {
+        background-color: rgb(10, 10, 10);
+    }
+    .header_fd6364{
+        background-color: rgb(10, 10, 10);
+    }
+    .title_a7d72e.container_fc4f04.themed_fc4f04 {
+        background-color: rgb(10, 10, 10);
+    }
+    .link_c91bad {
+        transition: 0.5s;
+        color: white;
+    }
+    .searchBar_f0963d {
+        background-color: rgb(10, 10, 10);
+    }
+    .searchBarComponent_f0963d:hover {
+        color: white;
+    }
+    .none_c49869 {
+        background-color: rgb(10, 10, 10);
+    }
+    .footer_d71945 {
+        background-color: rgb(10, 10, 10);
+    }
+    .sidebarRegionScroller_c25c6d.thin_c49869.scrollerBase_c49869.fade_c49869 {
+        background-color: rgb(10, 10, 10);
+        border-radius: 0px 50px 0px 50px;
+    }
+    .tabBarItemContainer_e7c031{
+        color: red;
+    }
+    .background_ae3c77{
+        background-color: rgba(96, 0, 107, 0.5);
+    }
+}
